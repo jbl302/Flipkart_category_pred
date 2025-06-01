@@ -1,1 +1,1 @@
-## END to END cateogry prediction
+## END to END category prediction
