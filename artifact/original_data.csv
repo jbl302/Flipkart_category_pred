@@ -1,0 +1,633 @@
+Unnamed: 0,Price,Rating,Num_of_ratings,Category,cleaned_name
+0,399.0,4.3,6667,Food essentials,bakerswhip whipping cream powder icing
+1,209.0,4.4,3144,Food essentials,nakpro cocoa powder unsweetened alkalized g pro
+2,331.0,4.4,20461,Food essentials,hersheys cocoa powder
+3,104.0,4.1,2515,Food essentials,bake king grade a quality gm active instant dry yeas
+4,258.0,4.2,566,Food essentials,go grass cake decorating set variety of cake sprinkles
+5,104.0,4.1,506,Food essentials,bake king grade a quality dry yeast powder g for bak
+6,160.0,4.1,161,Food essentials,pmw grade a quality food grade sodium benzoate sb
+7,233.0,4.0,136,Food essentials,five star china grass agar agar solid
+8,182.0,4.2,808,Food essentials,bake king neutral glazing gel for cake desserts toppi
+9,201.0,4.2,1602,Food essentials,nakpro hot cold chocolate powder g protein
+10,182.0,4.3,515,Food essentials,bake king liquid glucose for ice cream gm glucose s
+11,126.0,4.3,156,Food essentials,bake king corn starch g ararot powder makki atta
+12,198.0,4.0,487,Food essentials,bakerswhip vanilla whipping cream powder icing
+13,193.0,4.0,966,Food essentials,muchmore gourmetcocoa powdercakeunsweetenedbakingf
+14,121.0,4.5,44,Food essentials,haribas sun dried rose petals gulab patti g for he
+15,182.0,4.0,91,Food essentials,bake king pectin powder gm vegetarian pectin for gel
+16,205.0,4.1,30012,Food essentials,papilon shades of liquid food color ml x bott
+17,145.0,3.9,195,Food essentials,puramate agar agar agar agar powder
+18,140.0,4.0,276,Food essentials,green piece baking powder gm and baking soda g
+19,97.0,3.9,15,Food essentials,bake king mango flavour essence for baking cakes jams
+20,188.0,4.1,758,Food essentials,bake king agar agar powder g agar agar for cake and p
+21,277.0,4.3,11,Food essentials,renewtria combo of vermicelli golden silver ballsra
+22,174.0,4.1,62,Food essentials,dry delight premium coconut powder natural nar
+23,252.0,4.0,118,Food essentials,five star veg jelly crystalsstrawberry black currant
+24,80.0,3.9,11,Food essentials,puramate milk compound chips choco chips semi solid
+25,137.0,4.2,307,Food essentials,organic platter citric acid powdernimbu satlemon salt
+26,35.0,4.0,265,Food essentials,puramate baking soda baking soda powder
+27,80.0,4.0,689,Food essentials,puramate cocoa powder cocoa powder
+28,140.0,4.2,753,Food essentials,bake king gellan gum powder gm for gelling stabilizi
+29,162.0,4.0,5498,Food essentials,organic and pure ajinomoto chinese salt monosodium gl
+30,179.0,4.1,313,Food essentials,bake king gms powder gm and cmc powder gm making
+31,65.0,4.0,8,Food essentials,puramate dark compound chips choco chips semi solid
+32,193.0,5.0,26609,Food essentials,urban organics unsweetened dark cocoa powdernatural
+33,50.0,5.0,865,Food essentials,puramate instant dry yeast dry yeast powder
+34,150.0,4.1,1314,Food essentials,puramate decoration sprinkle compound chips treat choco
+35,45.0,4.0,253,Food essentials,puramate tooty fruity mix topping semi solid
+36,30.0,5.0,16,Food essentials,puramate corn flour corn flour powder
+37,179.0,4.2,81,Food essentials,bake king brewers yeast for wine gm fast fermentatio
+38,181.0,5.0,136,Food essentials,pramix premium combo of sprinkles dark chocolate chips
+39,300.0,3.0,17,Food essentials,prizex combo of dark white choco chips rainbow spri
+40,97.0,4.1,143,Food essentials,nature stuff premium quality natural citric acid
+41,205.0,5.0,288,Food essentials,active buy get ocean fish kg dry adult cat food
+42,258.0,5.0,12,Food essentials,bake king food essence combo of butterscotch pineapple
+43,104.0,4.0,131,Food essentials,dhawak active dry yeast powder used for baking bread
+44,182.0,1.0,270,Food essentials,bake king butterscotch flavour essence for baking cakes
+45,142.0,1.0,200,Food essentials,fruvanta cornflour powdercorn strachararot powdermak
+46,339.0,4.3,13541,Food essentials,fyn citric acid crystals g food grade nimbu sat
+47,201.0,4.3,26,Food essentials,five star china grass agar agar solid
+48,198.0,4.1,73,Food essentials,mohan impex kg bread improver for pack of baking
+49,120.0,4.1,24,Food essentials,bake king rose milk flavour essence for baking cakes j
+50,64.0,4.3,263,Food essentials,jamboree multi pearls sprinkle mix rainbow magic pear
+51,104.0,3.9,16415,Food essentials,groly organic lemon powder citric acid powder
+52,233.0,4.4,1420,Food essentials,foodemporium active dry yeast instant dry yeast g
+53,240.0,4.0,36,Food essentials,bake king gms powder glycerol monostearate g for i
+54,111.0,4.6,2963,Food essentials,organic purify perfect for cooking cleaning baking sod
+55,163.0,3.5,781,Food essentials,bake king pineapple flavour essence for baking cakes j
+56,274.0,4.0,117,Food essentials,whiskas months mackeral kg dry young cat fo
+57,73.0,4.1,31,Food essentials,five star instant china grass mixstrawberry chocolate
+58,142.0,3.9,316,Food essentials,bake king pack of food essence flavour blue berry ba
+59,151.0,4.1,49341,Food essentials,green piece premium ajinomoto flavored salt monosodium
+60,120.0,4.0,69,Food essentials,natures bridge natural citric acid nimbu sat lemon
+61,218.0,4.5,366,Food essentials,drools with container ocean fish kg dry young cat f
+62,254.0,4.1,147,Food essentials,bake king ice cream vanilla flavour essence for baking
+63,191.0,4.1,75,Food essentials,bake king ml bubble gum flavour food essence for baki
+64,160.0,4.8,244,Food essentials,papilon concentrated gel food colour pack of gm x
+65,210.0,4.2,24,Food essentials,foodfrillz cocoa baking soda combo pack of baking p
+66,310.0,4.4,191,Food essentials,jamboree cake sponge improver useful when making cakes
+67,109.0,4.1,18,Food essentials,organic mandya pearled barley certified organic whole g
+68,123.0,4.2,8,Food essentials,bake king pack of butterscotch chocolate and vanilla
+69,396.0,4.3,26609,Food essentials,prizex combo of dark white choco chips rainbow spri
+70,233.0,4.1,357,Food essentials,pedigree adult chicken milk kg dry young dog food
+71,167.0,3.9,114,Food essentials,goshudh premium quality baking sodameetha soda g ba
+72,139.0,4.1,81,Food essentials,nature connect active dry yeast powder used for baking
+73,185.0,4.0,136,Food essentials,fruvanta baking powder gm baking powder
+74,245.0,4.4,1234,Food essentials,bake king rasmalai flavour food essence for baking cake
+75,299.0,4.3,24,Food essentials,kwality extra lightness for cakes biscuits pastries
+76,116.0,4.0,288,Food essentials,jamboree white edible pearls sprinkle cake sprinkle coo
+77,196.0,3.9,19,Food essentials,dornish starch citric acid citric crystals
+78,69.0,3.9,11,Food essentials,foodfrillz cmc gms powder combo pack g x g
+79,113.0,4.4,1598,Food essentials,treat treasure baking soda for cleaning cooking eating
+80,30.0,4.3,26,Food essentials,nature stuff premium quality natural citric acid
+81,135.0,4.0,13541,Food essentials,active buy get ocean fish kg dry adult cat food
+82,255.0,4.3,3001,Food essentials,foodfrillz cocoa powder g instant dry yeast
+83,137.0,3.9,214,Food essentials,renewtria instant dry yeast powder for kulchas naans
+84,135.0,4.0,263,Food essentials,konfiz iff lemon m flavouressence lemon liquid fo
+85,30.0,4.0,16415,Food essentials,konfiz iff american icecream soda flavouressence amer
+86,64.0,3.9,1351,Food essentials,fyn citric acid crystals g food grade nimbu sat
+87,135.0,5.0,196,Food essentials,five star china grass agar agar solid
+88,120.0,5.0,211,Food essentials,bake king grade a quality gm active instant dry yeas
+89,245.0,4.4,211,Food essentials,jamboree sodium benzoate helps to preserve food g
+90,142.0,2.0,117,Food essentials,jamboree multi pearls sprinkle mix rainbow magic pear
+91,339.0,4.0,34,Food essentials,groly organic lemon powder citric acid powder
+92,236.0,4.0,85,Food essentials,jamboree vital wheat gluten flour gm baking essenti
+93,150.0,5.0,49341,Food essentials,jamboree potassium sorbate sorbet food preservative
+94,430.0,5.0,69,Food essentials,puramio liquid food colours ml each pack of m
+95,473.0,4.0,136,Food essentials,puramate jelly crystal strawberry jelly crystals
+96,104.0,5.0,135,Food essentials,five star instant china grass mixstrawberry chocolate
+97,233.0,5.0,7,Food essentials,whiskas months mackeral kg dry young cat fo
+98,68.0,4.3,9,Food essentials,palfrey unsweetened natural g cocoa powder for mak
+99,140.0,4.3,244,Food essentials,emjer gms cmc powder glycerol monostearate gms powder
+100,163.0,4.1,24,Food essentials,natures bridge natural citric acid nimbu sat lemon
+101,274.0,4.1,62,Food essentials,drools with container ocean fish kg dry young cat f
+102,158.0,4.4,517,Food essentials,papilon assorted culinary essence ml x bottles
+103,137.0,4.0,8,Food essentials,brew lab active instant dry yeast sugar tolerant for
+104,330.0,4.2,136,Food essentials,jamboree hyderabadi biryani flavour food essence biriya
+105,55.0,4.2,47,Food essentials,pramix dark chocolate chips choco chips for baking i
+106,254.0,4.0,9,Food essentials,jamboree cake sponge improver useful when making cakes
+107,218.0,4.2,48,Food essentials,organic mandya pearled barley certified organic whole g
+108,380.0,4.1,41,Food essentials,papilon food essence and colour ml pack of xml fo
+109,158.0,4.2,26609,Food essentials,chefzaa edible glazing gel for cake desserts toppings
+110,210.0,4.1,217,Food essentials,pedigree adult chicken milk kg dry young dog food
+111,310.0,4.5,7962,Food essentials,goshudh premium quality baking sodameetha soda g ba
+112,276.0,4.3,194,Food essentials,fyn baking soda powder pure food grade for baking co
+113,234.0,4.3,136,Food essentials,organic and pure citric acid powder for food and bakery
+114,191.0,4.2,288,Food essentials,brew lab china grass strips plant based quick easy
+115,217.0,4.4,266,Food essentials,puramio litchi culinary essence lychee liquid food ess
+116,167.0,4.1,357,Food essentials,jamboree white edible pearls sprinkle cake sprinkle coo
+117,139.0,4.1,114,Food essentials,dornish starch citric acid citric crystals
+118,241.0,3.7,26,Food essentials,papilon liquid food colour pack of ml each yello
+119,163.0,3.9,263,Food essentials,colourmist aroma pineapple liquid food essence
+120,299.0,3.9,1234,Food essentials,nature stuff premium quality natural citric acid
+121,116.0,4.5,13541,Food essentials,fyn baking soda powder pure food grade for baking co
+122,80.0,4.0,24,Food essentials,jamboree gms powder gm and cmc powder gm making s
+123,113.0,4.4,19,Food essentials,foodfrillz guar gum powder g thickening binding ag
+124,281.0,4.3,1598,Food essentials,green piece butter scotch and vanilla flavor food essen
+125,205.0,4.1,117,Food essentials,vintop bread improver g raising ingredient powder
+126,135.0,4.3,3001,Food essentials,active buy get ocean fish kg dry adult cat food
+127,255.0,4.3,1351,Food essentials,fyn citric acid crystals g food grade nimbu sat
+128,210.0,4.3,69,Food essentials,puramio whipping cream powder icing
+129,205.0,4.4,137,Food essentials,kwality powder for cake cooking cookies idly dosa
+130,236.0,4.3,196,Food essentials,five star china grass agar agar solid
+131,135.0,3.9,211,Food essentials,jamboree multi pearls sprinkle mix rainbow magic pear
+132,234.0,4.1,211,Food essentials,puramio culinary chocolate liquid food essence
+133,116.0,4.1,34,Food essentials,puramate liquid food color red red
+134,150.0,5.0,49341,Food essentials,foodfrillz cocoa powder g instant dry yeast
+135,142.0,5.0,244,Food essentials,renewtria instant dry yeast powder for kulchas naans
+136,80.0,4.4,85,Food essentials,five star instant china grass mixstrawberry chocolate
+137,186.0,2.0,7,Food essentials,natures bridge natural citric acid nimbu sat lemon
+138,89.0,4.0,8,Food essentials,konfiz iff american icecream soda flavouressence amer
+139,169.0,4.1,26609,Food essentials,bake king grade a quality gm active instant dry yeas
+140,93.0,4.0,9853,Food essentials,groly organic lemon powder citric acid powder
+141,339.0,4.0,1314,Food essentials,whiskas months mackeral kg dry young cat fo
+142,96.0,4.3,34,Food essentials,jamboree sodium benzoate helps to preserve food g
+143,355.0,4.0,136,Food essentials,jamboree vital wheat gluten flour gm baking essenti
+144,23.0,4.0,81,Food essentials,puramio liquid food colours ml each pack of m
+145,233.0,4.1,26,Food essentials,puramate jelly crystal strawberry jelly crystals
+146,163.0,5.0,366,Food essentials,jamboree cake sponge improver useful when making cakes
+147,214.0,5.0,288,Food essentials,organic mandya pearled barley certified organic whole g
+148,35.0,4.3,995,Food essentials,palfrey unsweetened natural g cocoa powder for mak
+149,236.0,4.1,3,Food essentials,papilon assorted culinary essence ml x bottles
+150,150.0,4.0,13541,Food essentials,goshudh premium quality baking sodameetha soda g ba
+151,254.0,3.6,263,Food essentials,eat anytime himalayan pink salt natural salt with
+152,210.0,4.0,457,Food essentials,brew lab active instant dry yeast sugar tolerant for
+153,473.0,3.9,16415,Food essentials,jamboree hyderabadi biryani flavour food essence biriya
+154,68.0,4.3,117,Food essentials,pramix dark chocolate chips choco chips for baking i
+155,274.0,4.3,11,Food essentials,papilon food essence and colour ml pack of xml fo
+156,218.0,4.2,2631,Food essentials,pedigree adult chicken milk kg dry young dog food
+157,140.0,4.2,357,Food essentials,jamboree white edible pearls sprinkle cake sprinkle coo
+158,158.0,4.0,280,Food essentials,chefzaa edible glazing gel for cake desserts toppings
+159,330.0,4.0,49341,Food essentials,brew lab china grass strips plant based quick easy
+160,55.0,4.1,69,Food essentials,nature stuff premium quality natural citric acid
+161,167.0,4.1,244,Food essentials,active buy get ocean fish kg dry adult cat food
+162,139.0,4.1,7051,Food essentials,nootie dog biscuit milk cheese kg dry new born dog f
+163,380.0,4.1,7,Food essentials,whiskas years mackeral kg dry adult cat food
+164,276.0,4.2,808,Food essentials,dhawak active dry yeast powder used for baking bread
+165,116.0,4.2,24,Food essentials,papilon food essence and colour ml pack of xml fo
+166,153.0,4.5,221,Food essentials,five star china grass agar agar solid
+167,234.0,4.2,191,Food essentials,fyn citric acid crystals g food grade nimbu sat
+168,191.0,4.2,781,Food essentials,five star instant china grass mixstrawberry chocolate
+169,499.0,4.2,362636,Home Appliances,nova plus by nova amaze ni w dry iron
+170,499.0,4.2,362636,Home Appliances,nova plus by nova amaze ni w dry iron
+171,7.0,4.2,79640,Home Appliances,realme techlife kg star rating semi automatic top l
+172,4.0,4.0,83694,Home Appliances,aqua fresh smoke audi ltr drink pure india st bis
+173,2.0,4.4,31186,Home Appliances,atomberg efficio alpha w energy saving warra
+174,549.0,4.2,82553,Home Appliances,bajaj dx w dry iron
+175,2.0,4.0,39744,Home Appliances,pigeon healthifry digital with high speed air circu
+176,525.0,4.2,184258,Home Appliances,orient electric panache plus dipcplp w dry iron
+177,1.0,4.0,32358,Home Appliances,agaro regal handheld vacuum cleaner dry vacuuming
+178,629.0,4.2,53699,Home Appliances,usha armorarwb w dry iron
+179,4.0,4.1,26441,Home Appliances,kinsco aqua punch pro with isi mark rouvuftds adjust
+180,4.0,4.1,4382,Home Appliances,kinsco aqua punch zinc copper and alkaline l ro u
+181,699.0,4.3,86537,Home Appliances,havells by havells dazzle w dry iron
+182,123.0,4.2,601,Home Appliances,hashone ml manual ice cream maker
+183,1.0,4.3,86537,Home Appliances,havells by hlls blaze dry iron kg heavy w dry iro
+184,517.0,4.2,105600,Home Appliances,bajaj majesty dx w dry iron
+185,241.0,4.0,8340,Home Appliances,sro weighing scale digital portable hook type kglugg
+186,1.0,3.8,5492,Home Appliances,homepro stainless steel water filter non electric
+187,18.0,4.1,33864,Home Appliances,whirlpool kg fully automatic top load washing machi
+188,4.0,4.1,26441,Home Appliances,kinsco aqua punch l ro uv uf copper tds cont
+189,36.0,4.2,5487,Home Appliances,whirlpool model ton star split inverter ac
+190,448.0,4.2,67378,Home Appliances,longway kwid w dry iron
+191,649.0,4.3,349235,Home Appliances,bajaj majesty dx w dry iron
+192,2.0,4.2,17763,Home Appliances,orient electric ujala prime star mm blade ceil
+193,1.0,4.1,37983,Home Appliances,orient electric ujala air bee star rated star mm
+194,549.0,4.2,184258,Home Appliances,orient electric fabripress difpbp w dry iron
+195,4.0,3.9,989,Home Appliances,marq by flipkart aqua biz black tpt l ro uv uf
+196,349.0,4.2,877,Home Appliances,pro w black hand blender
+197,649.0,4.2,40467,Home Appliances,bajaj popular w dry iron
+198,999.0,4.3,44732,Home Appliances,bajaj majesty dhx w dry iron
+199,2.0,4.0,39744,Home Appliances,pigeon healthifry with high speed air circulation
+200,449.0,4.3,1298,Home Appliances,voltas beko ivdbgwh w dry iron
+201,599.0,3.7,13,Home Appliances,homeda rechargeable mini electric chopper stainless s
+202,483.0,3.3,31,Home Appliances,homeda rechargeable mini electric chopper stainless s
+203,875.0,4.3,27505,Home Appliances,orpat w white hand blender
+204,3.0,3.9,48385,Home Appliances,eureka forbes quick clean dx dry vacuum cleaner with re
+205,16.0,4.1,33864,Home Appliances,whirlpool kg fully automatic top load washing machi
+206,2.0,4.1,6339,Home Appliances,bajaj crest neo mm fiji blue wall fan mm blade
+207,1.0,4.2,27298,Home Appliances,pigeon popup toaster
+208,6.0,4.2,25816,Home Appliances,marq by flipkart kg star rating innowash range semi
+209,517.0,4.2,844,Home Appliances,grace plastic handle w shock proof immersion heat
+210,448.0,4.0,8,Home Appliances,home tree immersion heater w shockproof rod
+211,629.0,5.0,9268,Home Appliances,usha mist air flo mm blade table fan
+212,649.0,4.2,49,Home Appliances,unque electric chopper for kitchen chop mince crus
+213,1.0,5.0,37983,Home Appliances,orient electric ujala air star mm blade ceilin
+214,257.0,4.0,17763,Home Appliances,orient electric ujala prime star mm blade ceil
+215,270.0,4.2,56300,Home Appliances,home tree pcs w immersion heater rod water
+216,2.0,4.0,31049,Home Appliances,home tree water heater w shock proof immersion rod
+217,1.0,5.0,9,Home Appliances,marq by flipkart kg star rating innowash range se
+218,1.0,4.3,5573,Home Appliances,avev sf electronic compact kitchen scale with max ca
+219,2.0,5.0,56300,Home Appliances,home tree kw immersion water heater shock proo
+220,328.0,5.0,37983,Home Appliances,home tree water heater w shock proof immersion rod
+221,243.0,3.8,1435,Home Appliances,usha qh quartz room heater
+222,7.0,5.0,17197,Home Appliances,rudraksh enterprises chopping master electric chopper
+223,401.0,3.0,2692,Home Appliances,pigeon healthifry manual with high speed air circul
+224,246.0,4.1,142,Home Appliances,marq by flipkart kg star rating innowash range semi
+225,252.0,4.0,8,Home Appliances,orient electric ujala air bee star rated star mm
+226,1.0,4.2,1,Home Appliances,chartbusters by chartbusters watt iron safetypa
+227,1.0,4.0,9,Home Appliances,bajaj crest neo mm blade table fan
+228,2.0,4.1,9,Home Appliances,havells fab alkaline l ro uv alkaline water purif
+229,7.0,4.2,9,Home Appliances,usha armrarwb w dry iron
+230,1.0,4.3,9,Home Appliances,hilton by hilton electric electric vegetable fruit ch
+231,365.0,3.9,9,Home Appliances,wama wmhdt desert maker w food processor
+232,1.0,3.8,9,Home Appliances,rudraksh enterprises chopping master electric chopper
+233,9.0,4.0,80871,Home Appliances,rudraksh enterprises chopping master electric chopper
+234,851.0,4.3,48,Home Appliances,rudraksh enterprises chopping master electric chopper
+235,1.0,4.1,14,Home Appliances,rudraksh enterprises chopping master electric chopper
+236,1.0,3.8,4023,Home Appliances,rudraksh enterprises chopping master electric chopper
+237,1.0,4.0,10550,Home Appliances,rudraksh enterprises chopping master electric chopper
+238,1.0,4.2,316,Home Appliances,kent ace l ro uv uf tds water purifier suitable
+239,1.0,4.2,30765,Home Appliances,usha electric iron armor w dry iron
+240,1.0,4.0,32301,Home Appliances,waimea electric vegetable fruit chopper
+241,1.0,4.0,448,Home Appliances,pureit wave plus l ro uv minerals water purifier
+242,1.0,3.8,3,Home Appliances,pureit eco water saver l ro uv mf water purifier
+243,12.0,3.8,1222,Home Appliances,rico w black hand blender
+244,826.0,3.8,362636,Home Appliances,orient electric ujala air deco star mm blade c
+245,330.0,3.8,362636,Home Appliances,philips gc w dry iron
+246,8.0,3.8,362636,Home Appliances,philips ac portable room air purifier
+247,13.0,3.8,661,Home Appliances,makd pe round shape humidifier wooden l portable ro
+248,1.0,4.4,41,Home Appliances,wipro by wipro vj w steam iron
+249,1.0,4.2,184258,Home Appliances,nova plus by nova amaze ni w dry iron
+250,1.0,2.6,26441,Home Appliances,nova plus by nova amaze ni w dry iron
+251,22.0,4.4,86082,Home Appliances,nova plus amaze ni w dry iron
+252,420.0,4.4,4382,Home Appliances,pratham enterprise electric vegetable fruit chopper
+253,1.0,3.9,79640,Home Appliances,ilife ts self emptying robot vacuum and mop robotic f
+254,1.0,4.0,601,Home Appliances,hichoice w dry iron
+255,1.0,4.3,8340,Home Appliances,orient electric panache plus dipcplp w dry iron
+256,2.0,4.3,5487,Home Appliances,kinsco aqua punch pro with isi mark rouvuftds adjust
+257,1.0,3.7,5492,Home Appliances,livpure livpepstarcopper l ro uv uf minerals
+258,257.0,3.9,989,Home Appliances,virza trade by no electric slicer
+259,499.0,4.0,26441,Home Appliances,kinsco aqua punch zinc copper and alkaline l ro u
+260,499.0,5.0,220,Home Appliances,realme techlife kg star rating semi automatic top l
+261,529.0,5.0,67378,Home Appliances,chefware by chefware alpha electric vegetable fruit c
+262,1.0,3.9,67378,Home Appliances,chefware echo electric vegetable fruit chopper
+263,22.0,5.0,877,Home Appliances,makd pe round shape humidifier wooden l portable ro
+264,525.0,5.0,4439,Home Appliances,makd pe round shape humidifier wooden l portable ro
+265,4.0,4.2,86082,Home Appliances,hashone ml manual ice cream maker
+266,10.0,5.0,104,Home Appliances,sro weighing scale digital portable hook type kglugg
+267,3.0,5.0,1336,Home Appliances,makd pe round shape humidifier wooden l portable ro
+268,4.0,4.0,182,Home Appliances,makd pe round shape humidifier wooden l portable ro
+269,7.0,4.0,362636,Home Appliances,whirlpool model ton star split inverter ac
+270,1.0,3.0,362636,Home Appliances,homepro stainless steel water filter non electric
+271,1.0,4.1,80890,Home Appliances,aadgex by no manual ice crusher easytouse electric gr
+272,420.0,5.0,79,Home Appliances,ghilaaf wood essence color changing led humidifier perf
+273,423.0,1.0,98,Home Appliances,aiither aviral portable room air purifier
+274,123.0,4.2,60,Home Appliances,hdl ceraflo hdl portable room air purifier
+275,241.0,4.2,184258,Home Appliances,marq by flipkart aqua biz black tpt l ro uv uf
+276,420.0,4.2,26441,Home Appliances,kinsco aqua punch l ro uv uf copper tds cont
+277,419.0,4.1,99,Home Appliances,longway grace with isi approved w dry iron
+278,36.0,3.6,4382,Home Appliances,longway kwid w dry iron
+279,1.0,4.2,601,Home Appliances,longway kwid w dry iron
+280,786.0,4.1,79640,Home Appliances,pro w black hand blender
+281,419.0,4.3,8340,Home Appliances,crompton cromyon w dry iron
+282,9.0,4.1,5492,Home Appliances,livpure livpepproplus l ro uv uf water purifi
+283,10.0,4.2,1244,Home Appliances,hullaards filo wifi airpurifier watts portable room
+284,4.0,4.2,56,Home Appliances,hullaards halo air purifier portable room air purifier
+285,4.0,4.0,54,Home Appliances,livpure smart livpure aircare portable room air purifie
+286,498.0,4.2,989,Home Appliances,o plus razer nonstick light weight w dry iron
+287,448.0,3.8,26441,Home Appliances,impex nutrifry smart in function uses up to le
+288,448.0,3.9,67378,Home Appliances,usha w dry iron
+289,349.0,4.1,877,Home Appliances,nova plus by nova amaze ni w dry iron
+290,599.0,4.3,1921,Home Appliances,nova plus by nova amaze ni w dry iron
+291,8.0,4.2,5492,Home Appliances,flipkart smartbuy regal sbkwt w dry iron
+292,5.0,4.2,362636,Home Appliances,always aqyagemufgravitybasedwaterpurifiernonelectric
+293,5.0,4.2,362636,Home Appliances,usha by usha ei w dry iron
+294,22.0,4.2,17216,Home Appliances,usha ei w dry iron
+295,552.0,4.3,3954,Home Appliances,orient electric panache plus dipcplp w dry iron
+296,3.0,4.5,8691,Home Appliances,kinsco aqua punch pro with isi mark rouvuftds adjust
+297,799.0,4.2,32358,Home Appliances,usha by usha arwb w dry iron
+298,1.0,4.1,184258,Home Appliances,swiss wonder electric vegetable fruit slicer
+299,525.0,3.8,26441,Home Appliances,kinsco aqua punch zinc copper and alkaline l ro u
+300,349.0,5.0,10160,Home Appliances,hashone ml manual ice cream maker
+301,241.0,3.0,6346,Home Appliances,swiss wonder electric vegetable fruit chopper
+302,448.0,4.2,4382,Home Appliances,swiss wonder electric vegetable fruit chopper
+303,499.0,4.0,601,Home Appliances,swiss wonder electric vegetable fruit slicer
+304,499.0,5.0,36906,Home Appliances,swiss wonder electric vegetable fruit slicer
+305,459.0,4.2,82553,Home Appliances,realme techlife kg star rating semi automatic top l
+306,1.0,5.0,19528,Home Appliances,sro weighing scale digital portable hook type kglugg
+307,892.0,5.0,9176,Home Appliances,swiss wonder electric vegetable fruit chopper
+308,640.0,4.0,79640,Home Appliances,swiss wonder electric vegetable fruit slicer
+309,525.0,4.0,8340,Home Appliances,homepro stainless steel water filter non electric
+310,4.0,2.0,22521,Home Appliances,skystar by sky star ocean plancha heavy weight soleplat
+311,736.0,4.2,22521,Home Appliances,usha w dry iron
+312,1.0,5.0,5492,Home Appliances,usha auwd w dry iron
+313,4.0,4.0,5487,Home Appliances,yaroh electric vegetable fruit chopper
+314,123.0,4.2,30381,Home Appliances,yaroh electric vegetable fruit chopper
+315,1.0,4.2,7329,Home Appliances,marq by flipkart aqua biz black tpt l ro uv uf
+316,1.0,4.2,9794,Home Appliances,kinsco aqua punch l ro uv uf copper tds cont
+317,1.0,4.1,14632,Home Appliances,yaroh electric vegetable fruit chopper
+318,1.0,4.2,67378,Home Appliances,yaroh electric chopper cutter for kitchen vegetable f
+319,7.0,3.9,26441,Home Appliances,longway kwid w dry iron
+320,241.0,4.2,3954,Home Appliances,pro w black hand blender
+321,1.0,4.1,10193,Home Appliances,yaroh electric chopper cutter for kitchen vegetable f
+322,1.0,4.1,989,Home Appliances,yaroh electric vegetable fruit chopper
+323,1.0,4.1,877,Home Appliances,yaroh electric chopper cutter for kitchen vegetable f
+324,829.0,4.2,121492,Home Appliances,yaroh electric vegetable fruit chopper
+325,900.0,4.2,4030,Home Appliances,kinsco aqua flame litre copper ro l ro uv uf
+326,947.0,4.0,23693,Home Appliances,homepro stainless steel water filter non electric
+327,492.0,3.8,21322,Home Appliances,yaroh electric chopper cutter for kitchen vegetable f
+328,492.0,4.1,1921,Home Appliances,yaroh electric chopper cutter for kitchen vegetable f
+329,4.0,3.8,5492,Home Appliances,nova plus by nova amaze ni w dry iron
+330,4.0,4.1,18740,Home Appliances,nova plus by nova amaze ni w dry iron
+331,492.0,3.9,18740,Home Appliances,marq by flipkart range ton star split invert
+332,737.0,4.3,3,Musical instruments,sagaft a kids piano keyboard piano for kids with mi
+333,858.0,3.3,6,Musical instruments,sagaft a piano key electronic piano keyboard toy wit
+334,460.0,3.8,27287,Musical instruments,beston keys piano toy with microphone usb power cab
+335,769.0,3.7,966,Musical instruments,intern keys portable piano keyboard piano keyboard t
+336,524.0,3.8,6225,Musical instruments,sai store piano keyboard toy kids with mic dc power opt
+337,421.0,3.8,10,Musical instruments,aoko cm headless tambourine
+338,229.0,4.0,1408,Musical instruments,medellin mhrsl silver harmonica
+339,1.0,2.3,3,Musical instruments,just key piano keyboard toy for kids p dc power
+340,679.0,3.5,333,Musical instruments,ziddjeet x piano key electronic piano keyboard toy w
+341,1.0,4.2,116,Musical instruments,zuurvi toybucket a musical instrument piano with mi
+342,317.0,3.7,217,Musical instruments,rudolf in musical melody educational piano xyloph
+343,680.0,3.7,137,Musical instruments,kavana electronic piano keyboard recording and replay m
+344,596.0,4.0,147,Musical instruments,pezyox musical piano key electronic piano keyboard t
+345,290.0,3.8,74,Musical instruments,kavana the amazing music keyboard piano for age th
+346,647.0,3.8,801,Musical instruments,nilesawar a piano toy with microphone usb power cab
+347,694.0,3.7,737,Musical instruments,hk enterprises official piano keyboard toy for kids wit
+348,631.0,3.8,1349,Musical instruments,bhalala enterprise pianio keys bigfun piano keyboard
+349,582.0,3.9,1727,Musical instruments,shiv musical key battery operatedmobile charger pow
+350,638.0,3.8,891,Musical instruments,kc collection key electric piano keyboard musical to
+351,188.0,2.7,3,Musical instruments,mpix handmade brass percussion instrument with strap
+352,657.0,3.8,33,Musical instruments,joyfun a piano with microphone input usb power s
+353,627.0,3.5,163,Musical instruments,nilesawar x kids piano keyboard piano for kids with
+354,631.0,3.7,116,Musical instruments,curve creation keys piano keyboard toy with micropho
+355,626.0,3.7,60,Musical instruments,yodnso bf keys musical pianotoyinstrument anal
+356,646.0,3.8,29,Musical instruments,frenish store bigfun keys piano keyboard toy with mi
+357,742.0,3.8,2549,Musical instruments,kidzjoy bf a key bigfun piano keyboard toy for
+358,615.0,3.9,276,Musical instruments,hkd sales key piano key piano toy keyboard for ki
+359,537.0,3.6,23,Musical instruments,samenterprise a key piano keyboard toy for kids w
+360,627.0,3.5,8,Musical instruments,collectionmart bigfun key piano keyboard toy with dc
+361,722.0,3.8,1058,Musical instruments,just key piano keyboard toy for kids p key pi
+362,854.0,3.9,1619,Musical instruments,star venture toy key piano keyboard musical instrume
+363,854.0,3.6,75,Musical instruments,star venture beginners educational songs recording musi
+364,627.0,2.8,5,Musical instruments,dwarikadhish enterprise keys piano keyboard toy with
+365,653.0,3.5,13,Musical instruments,devta key piano keyboard toy for boys and girls with
+366,617.0,3.8,2274,Musical instruments,amaflip kybrds keys kids and adult piano keyboard
+367,829.0,3.3,3,Musical instruments,star venture keyboard piano keys piano kids electron
+368,609.0,5.0,1423,Musical instruments,rchenterprise key piano toy keyboard for kids with m
+369,619.0,5.0,11,Musical instruments,kavana keys piano toy with microphone usb power cab
+370,659.0,3.8,390,Musical instruments,magicwand a key piano keyboard toy with recordi
+371,1.0,2.0,11,Musical instruments,gam collection keys electronic piano keyboard with l
+372,858.0,2.0,59,Musical instruments,sagaft a kids piano keyboard piano for kids with mic
+373,631.0,3.8,72,Musical instruments,radhe flutes c natural right hand with velvet cover pvc
+374,582.0,4.0,112,Musical instruments,amg music cm with head tambourine
+375,631.0,1.0,5,Musical instruments,kavana big fun piano kids and adult piano keyboard
+376,626.0,3.7,1126,Musical instruments,syga kalimbaretrotonewithcase thumb piano kalimba
+377,756.0,3.0,15,Musical instruments,ziddjeet a piano keyboard with recording mic mobi
+378,291.0,3.0,24,Musical instruments,techblaze metal alloy string acoustic guitar clutch g
+379,388.0,3.5,15,Musical instruments,syga thumb piano kalimba tone keys finger piano kali
+380,701.0,4.0,140,Musical instruments,samenterprise key piano keyboard toy for kids with m
+381,1.0,5.0,18,Musical instruments,just keys combo key piano keyboard with recordi
+382,679.0,4.0,151,Musical instruments,pezyox electronic piano keyboard with keys and with
+383,283.0,4.2,67,Musical instruments,amg music cm with head tambourine
+384,1.0,4.3,113,Musical instruments,music mantra color manjira set iron musical instrumen
+385,625.0,3.8,7,Musical instruments,amg music cm with head tambourine
+386,1.0,4.8,30,Musical instruments,haulsale bf key piano keyboard toy with power op
+387,586.0,4.3,28,Musical instruments,stybits a kids piano keyboard piano for kids with m
+388,352.0,4.6,20,Musical instruments,vaasu online jheka cm jhika tambourine hand percu
+389,155.0,3.9,5,Musical instruments,kavana piano keyboard with recording and mic and mobile
+390,377.0,4.0,10,Musical instruments,tern key piano keyboard toy with recording and mic a
+391,621.0,3.9,392,Musical instruments,amg music cm with head tambourine
+392,659.0,4.7,395,Musical instruments,shamsa a piano toy with microphone usb power cable
+393,346.0,4.3,5,Musical instruments,mocking bird cm with head tambourine
+394,636.0,4.3,3,Musical instruments,mocking bird cm with head tambourine
+395,651.0,3.8,1423,Musical instruments,kavana musical piano for kids with micrecording music
+396,368.0,3.8,5,Musical instruments,kavana piano keyboard piano for kids with microphone p
+397,699.0,4.2,59,Musical instruments,kavana piano keyboard for kids with microphone portable
+398,340.0,3.7,4,Musical instruments,just kids key piano keyboard with recording mic
+399,279.0,3.7,62,Musical instruments,just kids key piano keyboard with recording mic
+400,990.0,3.9,52,Musical instruments,polo cm with head tambourine
+401,678.0,4.2,18,Musical instruments,polo cm with head tambourine
+402,674.0,3.9,6,Musical instruments,star venture keys kids and adult piano keyboard bf
+403,646.0,3.8,5,Musical instruments,dhinchak kartal khadtaal pair indian musical percus
+404,646.0,3.4,3,Musical instruments,gam collection kids key piano keyboard with recordin
+405,210.0,3.2,46,Musical instruments,gam collection kids key piano keyboard with recordin
+406,340.0,4.0,66,Musical instruments,gam collection keys electronic piano keyboard with l
+407,822.0,4.1,22,Musical instruments,gam collection kids key piano keyboard with recordin
+408,198.0,3.2,6,Musical instruments,gam collection kids key piano keyboard with recordin
+409,701.0,3.8,4,Musical instruments,gam collection kids key piano keyboard with recordin
+410,701.0,1.0,106,Musical instruments,gam collection kids key piano keyboard with recordin
+411,701.0,1.0,26,Musical instruments,gam collection kids key piano keyboard with recordin
+412,701.0,3.9,24,Musical instruments,sagaft a kids piano keyboard piano for kids with mic
+413,701.0,5.0,65,Musical instruments,radhe flutes c natural right hand with velvet cover pvc
+414,701.0,5.0,98,Musical instruments,gam collection kids key piano keyboard with recordin
+415,676.0,3.2,30,Musical instruments,gam collection kids key piano keyboard with recordin
+416,701.0,1.0,3,Musical instruments,gam collection battery operatedmobile charger power op
+417,621.0,1.0,1423,Musical instruments,rmze cm with head tambourine
+418,625.0,3.7,59,Musical instruments,techblaze metal alloy string acoustic guitar clutch g
+419,674.0,5.0,4,Musical instruments,gt manufacturers professional mango wood dholak bhajan
+420,636.0,5.0,8,Musical instruments,ram musical bugchubughdugupchupbughdu kartal inst
+421,678.0,3.4,71,Musical instruments,nsr professional bongo drum musical instrument wood
+422,756.0,5.0,6,Musical instruments,ram musical rmhbkk kartal instrument
+423,291.0,5.0,3,Musical instruments,ekta musical gingle pcs kartal instrument
+424,701.0,4.0,8,Musical instruments,maga mart cm with head tambourine
+425,705.0,4.2,15,Musical instruments,syga thumb piano kalimba tone keys finger musical wi
+426,701.0,4.4,21,Musical instruments,music galaxy manjira w jhika kartal instrument
+427,348.0,4.3,3,Musical instruments,maga mart cm with head tambourine
+428,283.0,4.8,1423,Musical instruments,onneyretail hand percussion khartal kartal instrument k
+429,2.0,3.9,21,Musical instruments,star venture the best to you kidsadult piano keyboard
+430,686.0,4.2,328,Musical instruments,amg music cm with head tambourine
+431,509.0,4.8,522,Musical instruments,music mantra cm with head tambourine
+432,300.0,3.5,770,Musical instruments,musical empires kartal professional jhika sound classic
+433,249.0,2.0,248,Musical instruments,akshar tabla mart cm headless tambourine
+434,176.0,2.3,368,Musical instruments,music mantra cm headless tambourine
+435,1.0,4.5,110,Musical instruments,mocking bird cm with head tambourine
+436,297.0,4.1,548,Musical instruments,mocking bird cm headless tambourine
+437,290.0,4.2,262,Musical instruments,mocking bird cm headless tambourine
+438,147.0,4.5,388,Musical instruments,sg musical cm with head tambourine
+439,1.0,3.8,23,Musical instruments,mayur musical maracas musical instrument jhunjhuna toys
+440,241.0,4.1,8073,Musical instruments,rmze cm with head tambourine
+441,260.0,4.3,232,Musical instruments,rmze cm with head tambourine
+442,285.0,4.0,103,Musical instruments,star venture kids learning portable keyboard piano rec
+443,695.0,4.1,843,Musical instruments,music mantra cm headless tambourine
+444,523.0,4.1,2930,Musical instruments,music mantra cm headless tambourine
+445,344.0,4.2,724,Musical instruments,music mantra cm with head tambourine
+446,647.0,4.1,252,Musical instruments,bestbrother cm with head tambourine
+447,245.0,3.0,1791,Musical instruments,music mantra cm with head tambourine
+448,283.0,3.0,447,Musical instruments,bestbrother cm with head tambourine
+449,516.0,4.1,919,Musical instruments,bestbrother cm with head tambourine
+450,1.0,5.0,8,Musical instruments,bestbrother cm headless tambourine
+451,1.0,5.0,116,Musical instruments,music mantra cm with head tambourine
+452,828.0,4.1,80,Musical instruments,sagaft a kids piano keyboard piano for kids with mic
+453,279.0,5.0,22,Musical instruments,radhe flutes c natural right hand with velvet cover pvc
+454,641.0,5.0,992,Musical instruments,star venture toys electronic musical instruments key
+455,346.0,4.2,223,Musical instruments,music galaxy foot tambourie kartal instrument
+456,198.0,5.0,4394,Musical instruments,music galaxy ghar double hand kartal instrument
+457,405.0,5.0,6,Musical instruments,music galaxy ghar jhika w manjira kartal instrument
+458,139.0,3.8,2592,Sports,autosite sports arm sleeves boost performance comfort
+459,99.0,3.7,3999,Sports,fitness scout pairs sun protection cooling sports exe
+460,792.0,3.9,34,Sports,zugatti mirrored polarized uv protection sport sungla
+461,297.0,4.1,217,Sports,bingo sports goggles uv protections fully eyes safety
+462,722.0,3.9,34,Sports,zugatti mirrored polarized uv protection sport sungla
+463,97.0,3.7,444,Sports,gjshop pairs sun protection cooling sports exercising
+464,288.0,3.7,53,Sports,zugatti uv protected mirrored for cricket cycling ru
+465,600.0,3.7,6,Sports,bingo mirrored gradient polarized uv protection wra
+466,455.0,4.0,9,Sports,bingo polarized riding glasses sports wraparound sun
+467,299.0,3.7,2753,Sports,sportolume sports goggles uv protections fully eyes saf
+468,213.0,3.7,12770,Sports,knk double shaft florescentv racket pack of with pi
+469,145.0,3.8,1553,Sports,fitness scout sun protection sports driving hand cove
+470,749.0,4.6,41,Sports,zugatti polarized riding glasses sports wraparound s
+471,277.0,4.1,2881,Sports,zugatti mirrored polarized uv protection sport sungla
+472,352.0,3.8,374,Sports,prikli multisport gear for kids protective small cycli
+473,277.0,3.7,1082,Sports,akayi uv protection sports goggles for boys cricket gog
+474,398.0,3.6,365,Sports,silvers fire badminton combo rackets with shuttle p
+475,357.0,4.0,900,Sports,knk hard plastic cricket kit for years kids bat
+476,169.0,3.7,3034,Sports,nj fitto lets slim cool summer sports sleeves for men a
+477,158.0,4.0,192,Sports,leader arm sleeves for men women uv protection hand s
+478,198.0,3.9,34,Sports,shopeleven breathable antislip work gloves for sports
+479,165.0,4.1,57,Sports,ajro deal arm sleeves with stretchable material for rid
+480,158.0,4.7,3,Sports,rbsock cricket sport arms protective glove cg cyclin
+481,761.0,4.1,2430,Sports,zugatti mirrored polarized uv protection sport sungla
+482,267.0,4.2,307,Sports,cereto black military sport googles mirrored sunglass
+483,937.0,3.8,1194,Sports,my sports ibex green wicket keeping gloves with match b
+484,329.0,3.8,1194,Sports,boldfit cricket bat indoor outdoor turf bat plastic ten
+485,233.0,3.8,1194,Sports,pro anti fog goggles silicon cap earplugs with nos
+486,355.0,3.6,32,Sports,prikli multi sport gear for kids teens large yrs
+487,384.0,4.1,25,Sports,prikli multi sport gear for kids teens large yrs
+488,384.0,4.0,36,Sports,prikli multi sport gear for kids teens large yrs
+489,599.0,3.7,1100,Sports,hk sport toys pcredball inner gloves leather
+490,1.0,3.4,25,Sports,usi boxing gloves punching gloves mpu lite contest
+491,151.0,3.9,77,Sports,rbsock cricket sport arms protective glove cg cyclin
+492,304.0,3.5,22,Sports,lavenir protective skating cycling guard kit multi
+493,351.0,3.8,2592,Sports,prikli multi sport gear for kids teens small yrs
+494,357.0,5.0,3999,Sports,dcs pro sports in skating cycling multi sport p
+495,130.0,5.0,483,Sports,rbsock cricket sport arms protective glove cg cyclin
+496,377.0,4.1,15,Sports,adonyx arm sleeves with balaclava face mask cooling spo
+497,153.0,2.0,444,Sports,rbsock cricket sport arms protective glove cg cyclin
+498,357.0,2.0,3330,Sports,autosite sports arm sleeves boost performance comfort
+499,1.0,3.6,6,Sports,fitness scout pairs sun protection cooling sports exe
+500,158.0,4.0,100,Sports,pheonix adjustable hand gripper with solo tennis traine
+501,213.0,1.0,2753,Sports,pheonix skipping rope solo tennis trainer rebound bal
+502,130.0,3.7,5069,Sports,rbgiit nylon and rubber material sport gloves speical w
+503,139.0,4.0,92,Sports,senotey yellow black black red red black blue
+504,99.0,1.0,1433,Sports,gjshop pairs sun protection cooling sports exercising
+505,357.0,3.9,5,Sports,viel spiel high quality inline have different size wit
+506,310.0,1.0,81,Sports,sas sports pack of large football bib
+507,565.0,1.0,1364,Sports,neo strike gloves for tennis cricket multisports wic
+508,859.0,3.8,45491,Sports,knk double shaft florescentv racket pack of with pi
+509,97.0,3.7,35,Sports,ajro deal special in multifunction bicycle tools
+510,878.0,4.1,43,Sports,rbsock cricket sport arms protective glove cg cyclin
+511,557.0,4.3,374,Sports,arrowmax agility ladder meter pc training cone
+512,452.0,3.7,299,Sports,fitnesstricks selfstudy training tennis trainer reboun
+513,213.0,3.8,74,Sports,nios sports pvc speed hurdles
+514,130.0,3.5,13,Sports,kidsmate cruiser foldable wheel kick scooter for
+515,130.0,3.9,115,Sports,greenlife tarpauline sheet waterproof cover tent for
+516,519.0,3.7,22619,Sports,pluspicks trainer rebound ball solo tennis training equ
+517,262.0,3.9,13,Sports,chs complete speed and agility training set for menwom
+518,605.0,4.3,2173,Sports,myhoodwink best smart kick scooter for kids brakes le
+519,874.0,3.9,48,Sports,victory unfilled heavy premium boxing bag with boxing h
+520,608.0,3.8,95,Sports,arrowmax self tennis training solo practice portable re
+521,399.0,4.8,2592,Sports,la otter for cycling cycling gloves
+522,1.0,4.0,3999,Sports,rsn sports inch cones pack space markers and
+523,998.0,3.8,3252,Sports,fitness scout full hand cover sleeves for running cycli
+524,546.0,4.5,11,Sports,knk hard plastic cricket kit for years kids bat
+525,245.0,3.7,1444,Sports,freshdcart freshdcart digit tally electronic finger c
+526,574.0,3.8,444,Sports,proactive sports fitness agility ladder meter
+527,222.0,4.2,3330,Sports,zaysoo half finger gloves unisex motorcycle bicycle cyc
+528,357.0,4.2,7,Sports,freshdcart tally counter digital tally counter
+529,214.0,4.0,12,Sports,adonyx lock cable locks with complimentary mounting bra
+530,440.0,4.5,2753,Sports,zaysoo half finger gloves unisex motorcycle bicycle cyc
+531,436.0,4.0,5069,Sports,zugatti uv protection riding glasses sports wraparou
+532,348.0,4.0,1194,Sports,boldfire tennis trainer rebound ball kit for beginners
+533,144.0,4.2,127,Sports,zugatti uv protected mirrored for cricket cycling ru
+534,433.0,4.1,1194,Sports,boldfit soft light weight turf gully cricket ground hig
+535,432.0,4.4,81,Sports,kyk compression tshirt top full sleeve sports lycra sk
+536,332.0,3.8,92,Sports,lp london paree cricket sport arms protective glove cg
+537,288.0,5.0,1433,Sports,divulge duffle bag yoga bag gym bags sports bag for m
+538,60.0,5.0,58,Sports,autosite sports arm sleeves boost performance comfort
+539,461.0,4.8,146,Sports,fitness scout pairs sun protection cooling sports exe
+540,212.0,5.0,81,Sports,glitter cotton cricket multipurpose hand protect reusa
+541,215.0,5.0,1364,Sports,proberos sport compression sock shin guards set knee hi
+542,357.0,3.9,152,Sports,proberos uv protection bandana combo for men cooling ar
+543,998.0,5.0,1296,Sports,zitronix big frame water sport goggles with leakproof s
+544,452.0,5.0,213,Sports,gjshop pairs sun protection cooling sports exercising
+545,215.0,4.4,143,Sports,viel spiel high quality inline have different size wit
+546,874.0,5.0,87,Sports,cereto yellow and black sport googles mirrored sunglass
+547,139.0,1.0,88,Sports,dikuji enterprise sport accessories for kids table ten
+548,99.0,4.3,88,Sports,knk double shaft florescentv racket pack of with pi
+549,193.0,5.0,25,Sports,ajro deal special in multifunction bicycle tools
+550,599.0,4.0,1100,Sports,prikli multi sport gear for kids teens large yrs
+551,424.0,3.8,11,Sports,nivia raptor torrido goalkeeping gloves
+552,585.0,3.7,67,Sports,prikli multi sport gear for kids teens large yrs
+553,97.0,3.7,240,Sports,countrylink indoor outdoor table tennis selftraining
+554,878.0,4.2,3252,Sports,kidsmate cruiser foldable wheel kick scooter for
+555,286.0,4.1,25,Sports,greenlife tarpauline sheet waterproof cover tent for
+556,274.0,3.7,16,Sports,kohip karate gloves moulid boxing gloves
+557,213.0,3.8,87,Sports,prikli multi sport gear orange skating and cycling helm
+558,130.0,4.0,72,Sports,myhoodwink best smart kick scooter for kids brakes le
+559,384.0,4.2,2592,Sports,victory unfilled heavy premium boxing bag with boxing h
+560,1.0,3.7,3999,Sports,qoya black arm sleeve cycling gloves
+561,380.0,3.9,72,Sports,nivia se junior
+562,627.0,3.8,26,Sports,rbgiit nylon and rubber material sport gloves speical w
+563,874.0,4.0,140,Sports,glitter yard x wicket keeping gloves fully leather pa
+564,608.0,3.8,476,Sports,nivia combo fbar world fest football bp air
+565,482.0,3.6,444,Sports,countrylink indoor outdoor table tennis selftraining
+566,363.0,4.3,2173,Sports,countrylink indoor outdoor table tennis selftraining
+567,998.0,3.9,3252,Sports,usi boxing gloves punching gloves mpu lite contest
+568,546.0,4.2,30,Sports,lavenir protective skating cycling guard kit multi
+569,202.0,3.7,2753,Sports,prikli multi sport gear for kids protective helmet kit
+570,279.0,4.8,12770,Sports,supreme hockey player gloves blackorange size large l
+571,258.0,4.0,30,Sports,onex boxing glove for boys and girls with mouth guard b
+572,699.0,3.8,15,Sports,glitter cotton cricket multipurpose protect reusable b
+573,705.0,4.2,5069,Sports,prikli multi sport gear for kids teens small yrs
+574,473.0,3.8,92,Sports,dcs pro sports in skating cycling multi sport p
+575,473.0,4.0,619,Sports,vector x vxbibs pack of small football hockey bib
+576,1.0,4.1,619,Sports,lavenir protective skating cycling guard kit multi
+577,317.0,3.5,1433,Sports,mayor sports bib pack of size large football hock
+578,424.0,3.5,2881,Sports,autosite sports arm sleeves boost performance comfort
+579,492.0,4.1,78,Sports,fitness scout pairs sun protection cooling sports exe
+580,430.0,3.7,122,Sports,mayor sports bib pack of size large football hock
+581,193.0,4.0,11,Sports,mrt sports space marker pack of
+582,351.0,4.3,17,Sports,henco cricket wicket keeping gloves youth wicket keep
+583,382.0,4.0,81,Sports,zaysoo boxing hand tape boxing hand wrap boxing gloves
+584,774.0,3.7,374,Sports,gjshop pairs sun protection cooling sports exercising
+585,310.0,3.4,20,Sports,boldfit soft light weight turf gully cricket ground hig
+586,1.0,4.4,20,Sports,glitter cotton cricket multipurpose hand protect reusa
+587,1.0,3.8,299,Sports,lavenir sports in skating cycling multi sport
+588,998.0,4.4,20,Sports,knk double shaft florescentv racket pack of with pi
+589,317.0,4.1,116,Sports,fitness scout sun protection sports driving hand cove
+590,774.0,2.0,20,Sports,lavenir sports in skating cycling multi sport
+591,874.0,2.0,3,Sports,bunny fit nylon tshirts for unisex sports tshirts g
+592,139.0,4.8,47,Sports,bunny fit polyester spandex tshirts for unisex sports
+593,99.0,5.0,22,Sports,vector x vxbibs xlarge football hockey bib
+594,1.0,5.0,3,Sports,ajro deal special in multifunction bicycle tools
+595,258.0,3.7,2592,Sports,kidsmate cruiser foldable wheel kick scooter for
+596,485.0,4.0,2225,Sports,alksha sports shrija sport pvc football size football
+597,198.0,3.0,5316,Sports,alksha sports alksha sport football size multicolor
+598,97.0,4.4,4385,Sports,greenlife tarpauline sheet waterproof cover tent for
+599,59.0,5.0,24872,Sports,silvers fire badminton combo rackets with shuttle p
+600,193.0,5.0,26544,Sports,kobo gkg professional football goal latex keeper glo
+601,410.0,4.3,3999,Sports,kobo gkg professional football goal latex keeper glo
+602,213.0,5.0,444,Sports,mayor sports bib pack of size small football hock
+603,145.0,4.0,5342,Sports,lavenir sports fitness meter rungs speed agil
+604,445.0,3.8,2173,Sports,myhoodwink best smart kick scooter for kids brakes le
+605,168.0,3.7,2753,Sports,knk hard plastic cricket kit for years kids bat
+606,130.0,4.4,9577,Sports,sas sports pack of medium football bib
+607,874.0,4.0,5315,Sports,sas sports pack of medium football bib
+608,446.0,3.7,9275,Sports,freshdcart freshdcart digit tally electronic finger c
+609,519.0,3.8,3423,Sports,sas sports pack of medium football bib
+610,608.0,3.7,12770,Sports,proactive protective skating cycling guard kit mult
+611,398.0,4.2,5069,Sports,style eva biker safety goggles cycling sunglasses glass
+612,1.0,3.7,1403,Sports,styrkr protective skating cycling guard kit multi s
+613,1.0,3.8,92,Sports,divulge achiever daypack sports bsg drawstring bag yog
+614,1.0,3.7,1433,Sports,prikli multi sport skating and cycling protection set
+615,691.0,3.7,11858,Sports,fitcozi small drawstring ball bag mesh foldable sport
+616,998.0,3.8,8056,Sports,sas sports pack of large football bib
+617,357.0,3.4,1639,Sports,shifter compression cycling gym running and other s
+618,1.0,3.9,1453,Sports,autosite sports arm sleeves boost performance comfort
+619,1.0,4.3,81,Sports,adonyx function waterproof bicycle computer odometer
+620,214.0,3.6,2255,Sports,urban terrain pro high performance mountain cycles for
+621,1.0,3.6,3547,Sports,leosportz bicycle atom mudguard with reflective tape b
+622,320.0,3.9,10371,Sports,nivia pro grip basketball size
+623,509.0,4.1,2122,Sports,mayor sammy football size
+624,480.0,4.1,9591,Sports,fitness scout pairs sun protection cooling sports exe
+625,234.0,4.1,7321,Sports,gjshop pairs sun protection cooling sports exercising
+626,384.0,4.4,12574,Sports,krishyam person automatic double door camping ten
+627,198.0,4.4,19713,Sports,apacs counter attack g lbs red black unstrung b
+628,1.0,4.8,2090,Sports,boldfit soft light weight turf gully cricket ground hig
+629,236.0,3.8,1797,Sports,knk double shaft florescentv racket pack of with pi
+630,357.0,4.2,7815,Sports,hundred cosmogear
+631,998.0,4.2,940,Sports,knk double shaft badminton kit of with pc nylon shu
